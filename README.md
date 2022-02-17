@@ -5,7 +5,7 @@
 * CSS <br>
 * JS
 ## Installation
- * Download the .html file, .js file and .css file images on your desktop.
+ * Download the .html file, .js file and .css file on your desktop.
  * Open these files in the visual studio code.
  * Create a Mapbox account and get an access token.
  * Add your access token to the mabboxgl. 
